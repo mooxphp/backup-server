@@ -2,14 +2,14 @@
 
 # Moox Backup Server UI
 
-Filament UI for Spatie Laravel Backup Server. Needs a license key for the paid package from [https://spatie.be](https://spatie.be/products/laravel-backup-server).
+Filament UI for [Laravel Backup Server](https://spatie.be/products/laravel-backup-server) from Spatie.
 
 ## Quick Installation
 
 These two commmands are all you need to install the package:
 
 ```bash
-composer require moox/backup-server-ui
+composer require moox/backup-server
 php artisan mooxbackup-server-ui:install
 ```
 
