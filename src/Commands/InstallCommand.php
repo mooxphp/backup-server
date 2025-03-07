@@ -18,7 +18,7 @@ class InstallCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'mooxbackup-server-ui:install';
+    protected $signature = 'mooxbackupserver:install';
 
     /**
      * The console command description.
