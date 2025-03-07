@@ -1,5 +1,5 @@
 {
-    "name": "moox/backup-server-ui",
+    "name": "moox/backup-server",
     "description": "Filament UI for Spatie Laravel Backup Server.",
     "keywords": [
         "Laravel",
