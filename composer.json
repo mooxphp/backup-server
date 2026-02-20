@@ -17,11 +17,11 @@
         }
     ],
     "require": {
-        "moox/core": "5.0.1",
+        "moox/core": "5.0.11",
         "spatie/laravel-backup-server": "^4.1"
     },
     "require-dev": {
-        "moox/devtools": "5.0.1"
+        "moox/devtools": "5.0.11"
     },
     "autoload": {
         "psr-4": {
@@ -33,6 +33,9 @@
             "providers": [
                 "Moox\\BackupServerUi\\BackupServerUiServiceProvider"
             ]
+        },
+        "moox": {
+            "stability": "stable"
         }
     },
     "prefer-stable": true
